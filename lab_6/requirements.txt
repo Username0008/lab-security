@@ -1,0 +1,4 @@
+argon2-cffi==21.3.0
+cryptography==36.0.1
+Django==4.0.2
+django-appconf==1.0.5

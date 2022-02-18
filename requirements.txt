@@ -1,0 +1,6 @@
+# lab_2.py
+colorama==0.4.4
+
+# lab_3.py
+requests==2.27.1
+z3-solver==4.8.14.0
